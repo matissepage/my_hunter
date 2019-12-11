@@ -1,6 +1,7 @@
 /*
 ** EPITECH PROJECT, 2019
 ** Graphic
+**matissepage
 ** File description:
 ** bird.c
 */
